@@ -6,7 +6,7 @@ let c4 = document.getElementById('c4');
 let search = document.getElementById('search');
 let searchbtn = document.getElementById('searchbtn');
 let notFoundMessage = document.getElementById('not-found');
-let body = document.getElementById("itemBody")
+let body = document.getElementById("itemBody");
 
 // Function to filter the lists based on search input
 function filterLists() {
